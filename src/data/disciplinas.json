@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "nome": "Matemática",
+      "descricao": "Disciplina de cálculo",
+      "ativa": true
+    },
+    {
+      "id": 2,
+      "nome": "Português",
+      "descricao": "Disciplina de gramática",
+      "ativa": true
+    }
+  ]
+  
